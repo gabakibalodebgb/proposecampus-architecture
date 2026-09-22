@@ -400,13 +400,12 @@ def update_stats_cascade(sender, instance, **kwargs):
 **7. Parent Portal** — Subscription-gated child follow-up
 **8. Desktop Application** — Electron shell running the same interface natively
 
-*(Image files to be referenced in `docs/screenshots/`)*
 
 ---
 
 ## 🏢 Company Context
 
-ProposeCampus is a proprietary product developed and owned by **Propose Group**. Unlike other projects in this portfolio built in partnership with external organizations, ProposeCampus is fully in-house: conceived, architected, and developed solo as lead developer.
+ProposeCampus is a proprietary product developed and owned by **Propose Group**. He is fully in-house: conceived, architected, and developed solo as lead developer.
 
 **My role covers the entire product:**
 - ✅ Full system architecture & design (backend, frontend, desktop)
